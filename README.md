@@ -27,8 +27,8 @@ Currently, improving my abilities with JavaScript Stack (ReactJS & Node.js).
 
 **Technologies I'm interested in learning:**
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
 
 <!--
 **gibuselli/gibuselli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
