@@ -1,5 +1,4 @@
 # {Hello, outsider} 👋
-## Make yourself at home, just don't break anything...
 ## <a target="_blank" href="https://www.linkedin.com/in/gibuselli/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a> <a target="_blank" href="mailto:gibuselli@gmail.com">
