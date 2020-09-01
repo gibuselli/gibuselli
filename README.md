@@ -9,7 +9,7 @@
 
 :bowtie: Hi, my name is Giovani Buselli, I'm a <b>Junior Developer</b> from São Paulo, Brazil.<br>
 24 years old and 1 year coding, since I discovered my passion for technology. <br>
-I'm really interested in learning and improving <b>back-end</b> abilities, so I study, mostly, Java and C#, but when I get the time, I like to try some things with Javascript, Bootstrap and other front-end frameworks.
+I'm really interested in learning and improving <b>Back-End</b> abilities, so I study, mostly, Java and C#, but when I get the time, I like to try some things with Javascript, Bootstrap and other Front-End frameworks.
 
 **Learn some facts about me:**
 
@@ -22,12 +22,14 @@ I'm really interested in learning and improving <b>back-end</b> abilities, so I 
 **Technologies I'm currently learning:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 
 
 **Technologies I'm interested in learning:**
 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
