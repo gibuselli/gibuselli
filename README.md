@@ -9,7 +9,7 @@
 
 :bowtie: Hi, my name is Giovani Buselli, I'm a <b>Junior Developer</b> from São Paulo, Brazil.<br>
 24 years old and 1 year coding, since I discovered my passion for technology. <br>
-I'm really interested in learning and improving <b>Back-End</b> abilities, so I study, mostly, Java and C#, but when I have the time, I like to try some things with Javascript, Bootstrap and other Front-End frameworks.
+I'm really interested in learning and improving <b>Back-End</b> abilities, so I study, mostly, Java and Python, but when I have the time, I like to try some things with Javascript, Bootstrap and other Front-End frameworks.
 
 **Learn some facts about me:**
 
