@@ -8,8 +8,8 @@
 </a> <br><br>
 
 :bowtie: Hi, my name is Giovani Buselli, I'm a <b>Junior Developer</b> from São Paulo, Brazil.<br>
-25 years old and 1 year coding, since I discovered my passion for technology. <br>
-I'm really interested in learning and improving <b>Front-End</b> abilities, so I study, mostly, Javascript, Bootstrap, React and other frameworks, but when I have the time, I like to try some things with Back-End technologies, like Java, Python, C#.
+25 years old and it's been 1 year since I discovered my passion for technology. <br>
+I'm really interested in learning and improving both <b>Front-End</b> and <b>Back-End</b> abilities, so I study, mostly, Javascript, Java, and C# (sometimes, Python just for fun), but I'm willing to learn whatever I need to, in order to achieve my first opportunity to work with technology and be a great developer!
 
 **Learn some facts about me:**
 
@@ -22,7 +22,7 @@ I'm really interested in learning and improving <b>Front-End</b> abilities, so I
 **Technologies I'm currently learning:**
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 
 
