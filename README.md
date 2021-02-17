@@ -9,7 +9,10 @@
 
 :bowtie: Hi, my name is Giovani Buselli, I'm a <b>Junior Developer</b> from São Paulo, Brazil.<br>
 25 years old and it's been 1 year since I discovered my passion for technology. <br>
-I'm really interested in learning and improving both <b>Front-End</b> and <b>Back-End</b> abilities, so I study, mostly, Javascript, Java, and C# (sometimes, Python just for fun), but I'm willing to learn whatever I need to, in order to achieve my first opportunity to work with technology and be a great developer!
+I'm really interested in learning and improving both <b>Front-End</b> and <b>Back-End</b> abilities, so I study, mostly, Java and JavaScript (sometimes, Python just for fun), but I'm willing to learn whatever I need to, in order to achieve my first opportunity to work with technology and be a great developer!
+
+### Make sure you visit my <a target="_blank" href="https://gibuselli.github.io/portfolio/">Portfolio</a>
+
 
 **Learn some facts about me:**
 
