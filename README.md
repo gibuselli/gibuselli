@@ -1,11 +1,4 @@
 # {Hello} 👋
-## <a target="_blank" href="https://www.linkedin.com/in/gibuselli/">
-  <img align="left" alt="LinkdeIN" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/174/174857.svg?token=exp=1613581086~hmac=72b92371f177a39e8488e5111e04953d"/>
-</a> <a target="_blank" href="mailto:gibuselli@gmail.com">
-  <img align="left" alt="Gmail" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/888/888853.svg?token=exp=1613581139~hmac=07c92aedf7ec369811a8be948d0569af" />
-</a> <a target="_blank" href="https://www.instagram.com/gi.buselli/">
-  <img align="left" alt="Instagram" width="30px" src="https://www.flaticon.com/svg/vstatic/svg/174/174855.svg?token=exp=1613581101~hmac=68247e0c93f082112d7354d74d8f7326"/>
-</a> <br><br>
 
 :bowtie: Hi, my name is Giovani Buselli, I'm a <b>Junior Developer</b> from São Paulo, Brazil.<br>
 25 years old and it's been 1 year since I discovered my passion for technology. <br>
