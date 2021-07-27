@@ -9,7 +9,7 @@ I'm really interested in learning and improving both <b>Front-End</b> and <b>Bac
 
 **Learn some facts about me:**
 
-* :mortar_board: System Analysis and Development graduation student.
+* :mortar_board: Data Science graduation student.
 * :closed_book: Book lover.
 * :guitar: Bass, drums & guitar player.
 * :kimono: Kung Fu practitioner.
