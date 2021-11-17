@@ -3,7 +3,7 @@
 :bowtie: Hi, my name is Giovani Buselli, I'm a <b>Software Developer</b> from São Paulo, Brazil.<br>
 25 years old and it's been 2 years since I discovered my passion for technology. <br>
 
-Currently, I'm a Developer Intern, working in projects with Java, Spring and MySQL in the Solutions Architecture team. <br>
+Currently, I'm a Back End Developer, working in projects with Java, Spring and Quarkus in the Cloud Architecture team. <br>
 I'm also interested in Mobile Development, therefore I like to create some nice app projects with Kotlin and Android Studio.
 
 ### Make sure you visit my <a target="_blank" href="https://gibuselli.github.io/portfolio/">Portfolio!</a>
@@ -24,6 +24,7 @@ I'm also interested in Mobile Development, therefore I like to create some nice 
 * Python
 * MySQL
 * Spring Framework
+* Quarkus Framework
 * Android Studio
 
 <!--
