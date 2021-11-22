@@ -11,7 +11,7 @@ I'm also interested in Mobile Development, therefore I like to create some nice 
 
 **Some facts about me:**
 
-* :mortar_board: Data Science graduation student.
+* :mortar_board: Computer Engineering graduation student.
 * :closed_book:    Book lover.
 * :guitar: Bass, drums & guitar player.
 * :kimono: Kung Fu practitioner.
